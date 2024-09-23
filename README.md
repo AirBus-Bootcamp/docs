@@ -12,3 +12,5 @@ La bitácora de sesiones se encuentra en el directorio [logs](./logs/README.md).
 Documentación sobre aplicación de ejemplo:
 
 - [AstroBookings](./apps/astrobookings/AstroBookings.md)
+
+- [Meets](https://meet.google.com/rvz-bbnb-svf?authuser=0)
