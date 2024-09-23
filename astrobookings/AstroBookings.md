@@ -39,8 +39,8 @@ Those are the repositories of the implementation:
 
 > ⚠️ ToDo: link to Airbus Repos
 
-- [0. **System API**](https://github.com/arbs-bootcamp/arb-api-system)
-- [4. **Notify API**](https://github.com/arbs-bootcamp/arb-api-notify)
+- [0. **System API**](https://github.com/AirBus-Bootcamp/0_ab_system_api)
+- [4. **Notify API**](https://github.com/AirBus-Bootcamp/4_ab_notify_api)
 
 ### 📇 DataBase schemas
 

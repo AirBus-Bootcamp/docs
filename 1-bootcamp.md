@@ -6,11 +6,11 @@ Curso práctico de desarrollo de aplicaciones empresariales con **Angular y Node
 
 ### OBJETIVOS
 
-- Desarrollar un sistema completo end-to-end para gestión de reservas de actividades lúdicas y deportivas.
-- Desarrollar un API REST con node/express/nest
-- Desarrollar un cliente web con Angular.
-- Acceso con un ORM a datos NoSQL (MongoDB/CouchDB) y SQL (PostgreSQL)
-- Aplicar arquitectura limpia en el servidor y tres-capas simples en cliente.
+- Desarrollar un sistema completo end-to-end para gestión de reservas de viajes espaciales
+  - Desarrollar un API REST con node/express/nest
+  - Desarrollar un cliente web con Angular.
+  - Acceso con un ORM a datos NoSQL (MongoDB/CouchDB) y SQL (PostgreSQL)
+- Aplicar arquitectura limpia en el servidor y tres-capas en cliente.
 - Seguridad básica con JWT e instrumentación (logs…).
 
 ### DIRIGIDO A
