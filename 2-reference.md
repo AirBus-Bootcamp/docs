@@ -9,13 +9,13 @@
 ### Express
 
 - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
+- https://www.freecodecamp.org/news/apis-with-nodejs-and-express-course-in-spanish-for-beginners/
 
 ### NestJs
 
+- https://www.freecodecamp.org/news/comprehensive-nestjs-course/
 - https://danimai.medium.com/nest-js-basic-series-indexing-4029c25f9080
 - https://awstip.com/understanding-nestjs-architecture-f257d054211d
-
-### NestJs
 
 ## Frontend
 
