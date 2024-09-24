@@ -16,6 +16,7 @@
 - https://www.freecodecamp.org/news/comprehensive-nestjs-course/
 - https://danimai.medium.com/nest-js-basic-series-indexing-4029c25f9080
 - https://awstip.com/understanding-nestjs-architecture-f257d054211d
+- https://medium.com/@janishar.ali/mastering-nestjs-building-an-effective-rest-api-backend-8a5add59c2f5
 
 ## Frontend
 
