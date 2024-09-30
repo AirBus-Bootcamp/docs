@@ -2,7 +2,7 @@
 
 ## Agenda
 
-- [ ] Review of the last session (Project brief)
+- [x] Review of the last session (Project brief)
 
 - [ ] Git repository setup
 - [ ] NestJS intro and demo project
@@ -17,7 +17,7 @@
 
 ### Live coding
 
-- [4_ab_notify_api](https://github.com/AirBus-Bootcamp/4_ab_notify_api)
+- [6_ab_notify_api](https://github.com/AirBus-Bootcamp/6_ab_notify_api)
 
 ### Private gitLab
 
